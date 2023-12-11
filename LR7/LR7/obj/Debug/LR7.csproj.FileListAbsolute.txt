@@ -1,0 +1,8 @@
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR7\LR7\obj\Debug\LR7.csproj.AssemblyReference.cache
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR7\LR7\obj\Debug\LR7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR7\LR7\obj\Debug\LR7.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR7\LR7\bin\Debug\LR7.exe.config
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR7\LR7\bin\Debug\LR7.exe
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR7\LR7\bin\Debug\LR7.pdb
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR7\LR7\obj\Debug\LR7.exe
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR7\LR7\obj\Debug\LR7.pdb

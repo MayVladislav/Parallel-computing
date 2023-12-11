@@ -1,0 +1,8 @@
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR9\LR9\bin\Debug\LR9.exe.config
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR9\LR9\bin\Debug\LR9.exe
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR9\LR9\bin\Debug\LR9.pdb
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR9\LR9\obj\Debug\LR9.csproj.AssemblyReference.cache
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR9\LR9\obj\Debug\LR9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR9\LR9\obj\Debug\LR9.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR9\LR9\obj\Debug\LR9.exe
+C:\Users\Vlad Maiyor\Desktop\bkmz\ВТПВ\LR9\LR9\obj\Debug\LR9.pdb
